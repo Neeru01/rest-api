@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Me"
+    }
+  ],
+  "users": [
+    {
+      "id": 2001,
+      "name": "Neeraj",
+      "contact": 9545240519
+    },
+    [
+      {
+        "id": 2001,
+        "name": "Neeraj",
+        "contact": 9545240519,
+        "email": "neerajborude01@gmail.com"
+      }
+    ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Pratik is a good boy",
+      "postId": 1001
+    }
+  ],
+  "profile": {
+    "name": "Pratik",
+    "address": "Pune",
+    "contact": 9876543210
+  }
+}
